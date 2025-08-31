@@ -12,6 +12,7 @@ public class Lab12082025b {
         int num=sc.nextInt();
         Lab12082025b obj1=new Lab12082025b();
         obj1.primefactors(num);
+        sc.close();
        
     }
     void  primefactors(int num){
@@ -19,10 +20,6 @@ public class Lab12082025b {
         for(int i=1;i<=num/2;i++){
                 if(obj.isprimeNum(i)){
                     System.out.println(i);
-                    while(num>0){
-                        if(num)
-                    }
-                    }
                 }
 
         }
