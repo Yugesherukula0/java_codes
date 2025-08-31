@@ -1,7 +1,7 @@
 package methods;
 import java.util.Scanner;
 
-public class conditionalstmts {
+public class naukari {
     static{
         System.out.println("WELCOME TO THE LOCAL JOB PORTAL");
     }

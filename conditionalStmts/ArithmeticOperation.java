@@ -28,5 +28,6 @@ public class ArithmeticOperation {
             System.err.println("enter the correct input");
         }
         System.out.println("result is :"+result);
+        sc.close();
     }
 }
