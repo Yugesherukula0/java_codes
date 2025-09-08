@@ -10,7 +10,7 @@ public class Lab04092025a {
                 System.out.println(a);
             }
             
-        }catch(NullPointerException e){
+        }catch(Exception e){
             System.out.println("cannot call methods by null value as obj is null");
         }
         finally{
