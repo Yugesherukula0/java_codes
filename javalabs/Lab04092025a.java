@@ -1,6 +1,7 @@
 package javalabs;
 import arrays.SelectionSort;
 public class Lab04092025a {
+    @SuppressWarnings("null")
     public static void main(String[] args) {
         int[] arr={21,2,3,54,6};
         SelectionSort obj= null;
