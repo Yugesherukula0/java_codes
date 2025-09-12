@@ -62,6 +62,14 @@ public class SmartPhoneIsuues {
         }
         }
     }
+    private void handleStorageIssue() {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'handleStorageIssue'");
+    }
+    private void handleAppCrashIssue() {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'handleAppCrashIssue'");
+    }
     public void handleBatteryIssues(){
         System.out.println("Hey hello May i know the type of phone:");
         String typeOfPhone = sc.nextLine();
